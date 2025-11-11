@@ -1,0 +1,6 @@
+ragas
+sacrebleu
+langchain
+langchain-openai
+openai
+python-dotenv
