@@ -1,0 +1,61 @@
+[
+    
+    {
+        "user_input": "summarise given text\nThe Q2 earnings report revealed a significant 15% increase in revenue, driven primarily by strong demand in the European market and a reduction in production costs.",
+        "response": "The Q2 report shows a 15% revenue boost led by European demand and lower production costs."
+    },
+
+    
+    {
+        "user_input": "summarise given text\nIn 2023, North American sales experienced a 5% decline due to inflationary pressures and shifting consumer preferences toward sustainable products.",
+        "response": "North American sales fell 5% in 2023 amid inflation and growing demand for sustainable goods."
+    },
+
+   
+    {
+        "user_input": "summarise given text\nThe company’s merger with TechNova led to operational efficiencies and expanded access to cloud-based services across Asia-Pacific regions.",
+        "response": "The TechNova merger improved efficiency and broadened cloud services in Asia-Pacific."
+    },
+
+   
+    {
+        "user_input": "summarise given text\nCustomer satisfaction improved by 12% year-over-year, mainly due to enhanced after-sales support and faster product delivery times.",
+        "response": "Customer satisfaction rose 12% thanks to better after-sales support and quicker deliveries."
+    },
+
+   
+    {
+        "user_input": "summarise given text\nResearch and development spending increased by 25% as the company focused on AI-driven analytics and sustainability-based innovation.",
+        "response": "R&D spending rose 25%, emphasizing AI analytics and sustainable innovation."
+    },
+
+    
+    {
+        "user_input": "summarise given text\nEmployee engagement surveys indicated a 9% improvement in workplace culture, highlighting teamwork and leadership transparency as key drivers.",
+        "response": "Employee engagement improved 9%, fueled by teamwork and transparent leadership."
+    },
+
+    
+    {
+        "user_input": "summarise given text\nThe firm expanded into Latin America, launching new logistics hubs in Brazil and Mexico to strengthen its regional supply chain.",
+        "response": "The company entered Latin America with logistics hubs in Brazil and Mexico to enhance supply chains."
+    },
+
+   
+    {
+        "user_input": "summarise given text\nCybersecurity investments doubled in Q3 following a series of minor breaches that exposed gaps in legacy infrastructure.",
+        "response": "Cybersecurity spending doubled in Q3 after breaches revealed infrastructure gaps."
+    },
+
+    
+    {
+        "user_input": "summarise given text\nThe sustainability report noted a 30% reduction in carbon emissions, achieved through renewable energy adoption and eco-friendly packaging initiatives.",
+        "response": "Carbon emissions dropped 30% thanks to renewable energy use and eco-friendly packaging."
+    },
+
+    
+    {
+        "user_input": "summarise given text\nThe new customer loyalty program attracted 1.2 million members within six months, driving a 10% increase in repeat purchases.",
+        "response": "A new loyalty program gained 1.2M members in six months, boosting repeat purchases by 10%."
+    }
+]
